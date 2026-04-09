@@ -1,1 +1,12 @@
+{
+  "version": "1.0.1",
+  "products": [
+    {
+      "stockCode": "123",
+      "description": "Product name",
+      "price": 10,
+      "location": "A1"
+    }
+  ]
+}
 

@@ -1,4 +1,6 @@
-[
+{
+ "version": "1.0.1",
+ "products": [
   {
     "stockCode": "0038548001067",
     "description": "IRWIN VISE GRIP 10R LOCKING PLIER",
@@ -104124,3 +104126,4 @@
     "location": "1"
   }
 ]
+}

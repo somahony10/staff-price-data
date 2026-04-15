@@ -54,7 +54,7 @@ const COLORS = {
 
 const VAT_RATE = 0.23;
 const PRODUCTS_URL =
-  "https://somahony10.github.io/staff-price-data/products.json";
+  "https://somahony10.github.io/staff-price-data/data/products.json";
 
 const formatPrice = (price: number) => Number(price).toFixed(2);
 const getPriceIncVat = (price: number) =>

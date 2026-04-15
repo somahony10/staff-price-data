@@ -1,0 +1,11 @@
+export type Product = {
+  id: number;
+  stockCode: string;
+  description: string;
+  price: number;
+  location: string;
+};
+
+export type CartItem = Product & {
+  qty: number;
+};

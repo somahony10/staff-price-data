@@ -285,12 +285,22 @@ export default function Index() {
       ? json
       : json?.products;
 
-    if (!products || products.length === 0) {
-      console.log("Invalid data");
+    if (!products || products.length === 0) return;
+
+    const remoteVersion = String(json?.version ?? "0");
+
+    const localVersionRow = db.getFirstSync<{ value: string }>(
+      `SELECT value FROM meta WHERE key='version';`
+    );
+
+    const localVersion = localVersionRow?.value ?? null;
+
+    if (remoteVersion === localVersion) {
+      console.log("No update needed");
       return;
     }
 
-    console.log("🚀 FORCING UPDATE");
+    console.log(`Updating ${localVersion} → ${remoteVersion}`);
 
     db.execSync("BEGIN;");
     db.execSync("DELETE FROM products;");
@@ -315,15 +325,20 @@ export default function Index() {
       ["lastUpdated", timestamp]
     );
 
+    db.runSync(
+      `INSERT OR REPLACE INTO meta (key,value) VALUES (?,?)`,
+      ["version", remoteVersion]
+    );
+
     db.execSync("COMMIT;");
 
     setLastUpdated(timestamp);
     triggerUpdateBanner();
 
-    console.log("✅ UPDATE APPLIED");
+    console.log("Update complete");
   } catch (err) {
     db.execSync("ROLLBACK;");
-    console.log("❌ Update failed", err);
+    console.log("Update failed", err);
   }
 };
 

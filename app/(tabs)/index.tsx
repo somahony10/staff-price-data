@@ -275,94 +275,57 @@ export default function Index() {
   };
 
   const checkForUpdates = async () => {
-    try {
-      console.log("Checking for updates...");
-      setIsUpdating(true);
+  try {
+    console.log("Checking for updates...");
 
-      const res = await fetch(`${PRODUCTS_URL}?t=${Date.now()}`);
-      const json = await res.json();
+    const res = await fetch(`${PRODUCTS_URL}?t=${Date.now()}`);
+    const json = await res.json();
 
-      const products = Array.isArray(json)
-        ? json
-        : Array.isArray(json?.products)
-        ? json.products
-        : null;
+    const products = Array.isArray(json)
+      ? json
+      : json?.products;
 
-      if (!products || products.length === 0) {
-        console.log("Invalid or empty product data");
-        return;
-      }
-
-      const remoteVersion = String(json?.version ?? "0");
-
-      const localVersionRow = db.getFirstSync<{ value: string }>(
-        `SELECT value FROM meta WHERE key='version';`
-      );
-      const localVersion = localVersionRow?.value ?? null;
-
-      const countRow = db.getFirstSync<{ count: number }>(
-        `SELECT COUNT(*) as count FROM products;`
-      );
-      const count = countRow?.count ?? 0;
-
-      console.log("Local version:", localVersion);
-      console.log("Remote version:", remoteVersion);
-      console.log("Product count:", count);
-
-      if (localVersion === remoteVersion && count > 0) {
-        console.log("Already up to date");
-        return;
-      }
-
-      db.execSync("BEGIN;");
-
-      try {
-        db.execSync("DELETE FROM products;");
-
-        products.forEach((p: any) => {
-          const priceParsed = parseFloat(String(p.price));
-          const safePrice = Number.isFinite(priceParsed) ? priceParsed : 0;
-
-          db.runSync(
-            `INSERT INTO products (stockCode, description, price, location)
-             VALUES (?, ?, ?, ?)`,
-            [
-              String(p.stockCode ?? "").trim(),
-              String(p.description ?? "").trim(),
-              safePrice,
-              String(p.location ?? "").trim(),
-            ]
-          );
-        });
-
-        const timestamp = new Date().toISOString();
-
-        db.runSync(
-          `INSERT OR REPLACE INTO meta (key, value) VALUES (?, ?)`,
-          ["lastUpdated", timestamp]
-        );
-
-        db.runSync(
-          `INSERT OR REPLACE INTO meta (key, value) VALUES (?, ?)`,
-          ["version", remoteVersion]
-        );
-
-        db.execSync("COMMIT;");
-
-        setLastUpdated(timestamp);
-        triggerUpdateBanner();
-
-        console.log("Update complete");
-      } catch (err) {
-        db.execSync("ROLLBACK;");
-        console.log("DB update failed", err);
-      }
-    } catch (err) {
-      console.log("Fetch failed", err);
-    } finally {
-      setIsUpdating(false);
+    if (!products || products.length === 0) {
+      console.log("Invalid data");
+      return;
     }
-  };
+
+    console.log("🚀 FORCING UPDATE");
+
+    db.execSync("BEGIN;");
+    db.execSync("DELETE FROM products;");
+
+    products.forEach((p: any) => {
+      db.runSync(
+        `INSERT INTO products (stockCode, description, price, location)
+         VALUES (?, ?, ?, ?);`,
+        [
+          p.stockCode ?? "",
+          p.description ?? "",
+          parseFloat(p.price) || 0,
+          p.location ?? "",
+        ]
+      );
+    });
+
+    const timestamp = new Date().toISOString();
+
+    db.runSync(
+      `INSERT OR REPLACE INTO meta (key,value) VALUES (?,?)`,
+      ["lastUpdated", timestamp]
+    );
+
+    db.execSync("COMMIT;");
+
+    setLastUpdated(timestamp);
+    triggerUpdateBanner();
+
+    console.log("✅ UPDATE APPLIED");
+  } catch (err) {
+    db.execSync("ROLLBACK;");
+    console.log("❌ Update failed", err);
+  }
+};
 
   useEffect(() => {
     const init = async () => {

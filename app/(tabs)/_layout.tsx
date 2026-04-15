@@ -18,33 +18,36 @@ export default function TabLayout() {
         tabBarStyle: {
           position: "absolute",
           bottom: 20,
-          left: 20,
-          right: 20,
-          height: 70,
+          left: "50%",
+          marginLeft: 100, // half of width
+          width: 200,
+
+          height: 60,
           borderRadius: 20,
+          backgroundColor: "#111827",
+          borderTopWidth: 0,
+          elevation: 10,
 
-          backgroundColor: COLORS.panel,
-          borderWidth: 1,
-          borderColor: COLORS.border,
+          alignSelf: "center", // 👈 THIS is the key
 
-          // iOS shadow
           shadowColor: "#000",
-          shadowOpacity: 0.2,
+          shadowOpacity: 0.25,
           shadowRadius: 10,
-          shadowOffset: { width: 0, height: 4 },
+          shadowOffset: { width: 0, height: 5 },
+        },
 
-          // Android shadow
-          elevation: 8,
+        tabBarItemStyle: {
+          flex: 1, // 👈 evenly spaced inside small container
+          
+
+        
         },
 
         tabBarLabelStyle: {
-          fontSize: 11,
+          fontSize: 12,
           fontWeight: "600",
-          marginBottom: 6,
+          color: "#22C55E"
         },
-
-        tabBarActiveTintColor: COLORS.active,
-        tabBarInactiveTintColor: COLORS.inactive,
       }}
     >
       <Tabs.Screen
@@ -69,4 +72,6 @@ export default function TabLayout() {
     </Tabs>
   );
 }
+
+
 

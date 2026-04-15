@@ -16,7 +16,7 @@ const COLORS = {
 };
 
 // CHANGE THIS TO YOUR REAL URL
-const PRODUCTS_URL = "https://somahony10.github.io/staff-price-data/products.json";
+const PRODUCTS_URL = "https://somahony10.github.io/staff-price-data/data/products.json";
 
 type IncomingProduct = {
   stockCode: string;

@@ -1,86 +1,86 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.7",
   "products": [
     {
-      "stockCode": "38548001067",
+      "stockCode": "0038548001067",
       "description": "IRWIN VISE GRIP 10R LOCKING PLIER",
       "price": "23.25",
       "location": ""
     },
     {
-      "stockCode": "38548001432",
+      "stockCode": "0038548001432",
       "description": "VISE GRIP 6LN 6\" LONG NOSE LOCKING PLIER  41B",
       "price": "24.18",
       "location": "41B"
     },
     {
-      "stockCode": "38548003016",
+      "stockCode": "0038548003016",
       "description": "VISE GRIP 7R LOCKING PLIER  41B",
       "price": "19.50",
       "location": "41B"
     },
     {
-      "stockCode": "38548009063",
+      "stockCode": "0038548009063",
       "description": "VISE GRIP 5WR 5\" LOCKING PLIER  41B",
       "price": "23.63",
       "location": "41B"
     },
     {
-      "stockCode": "76174460537",
+      "stockCode": "0076174460537",
       "description": "STANLEY QUICK ADJUSTABLE QUICK SQUARE",
       "price": "28.51",
       "location": ""
     },
     {
-      "stockCode": "76174589306",
+      "stockCode": "0076174589306",
       "description": "STANLEY DYNAGRIP 3PCE NAIL SET",
       "price": "16.32",
       "location": ""
     },
     {
-      "stockCode": "88381043212",
+      "stockCode": "0088381043212",
       "description": "MAKITA DRILL HP2050 220V  43B",
       "price": "217.50",
       "location": "43B"
     },
     {
-      "stockCode": "88381068147",
+      "stockCode": "0088381068147",
       "description": "MAKITA  ANGLE GRINDER GA9020 220V 230MM",
       "price": "158.58",
       "location": ""
     },
     {
-      "stockCode": "88381083102",
+      "stockCode": "0088381083102",
       "description": "MAKITA JIGSAW 220V    43",
       "price": "119.78",
       "location": "43"
     },
     {
-      "stockCode": "88381686129",
+      "stockCode": "0088381686129",
       "description": "MAKITA  190MM CIRCULAR   SAW HS7601J  240V     43",
       "price": "175.00",
       "location": "43"
     },
     {
-      "stockCode": "88381914925",
+      "stockCode": "0088381914925",
       "description": "SCALING CHISEL SDS MAX WIDE 50MMX400MM CINTRIDE",
       "price": "22.31",
       "location": ""
     },
     {
-      "stockCode": "25997391184",
+      "stockCode": "025997391184",
       "description": "PROFESSIONAL  BOLT CUTTERS",
       "price": "33.30",
       "location": ""
     },
     {
-      "stockCode": "34139624615",
+      "stockCode": "034139624615",
       "description": "ESTWING E320C 20oz CURVED CLAW HAMMER",
       "price": "57.60",
       "location": ""
     },
     {
-      "stockCode": "35965043373",
+      "stockCode": "035965043373",
       "description": "MARSHALLTOWN M3508D 8\"X3\" TAPING KNIFE    41A",
       "price": "19.89",
       "location": "41A"
@@ -92,79 +92,79 @@
       "location": "US85E"
     },
     {
-      "stockCode": "501568554643",
+      "stockCode": "0501568554643",
       "description": "CINTRIDE 75MMX300MM SDS MAX WIDE SCALING CHISEL 41",
       "price": "31.56",
       "location": "41"
     },
     {
-      "stockCode": "76174460100",
+      "stockCode": "076174460100",
       "description": "STANLEY 7\" DUAL COLOUR SQUARE",
       "price": "12.19",
       "location": ""
     },
     {
-      "stockCode": "76174460117",
+      "stockCode": "076174460117",
       "description": "STANLEY 12\" DUAL COLOUR SQUARE  41D",
       "price": "20.60",
       "location": "41D"
     },
     {
-      "stockCode": "76174460537",
+      "stockCode": "076174460537",
       "description": "STANLEY QUICK ADJUSTABLE QUICK SQUARE    41D",
       "price": "27.15",
       "location": "41D"
     },
     {
-      "stockCode": "761744744352",
+      "stockCode": "0761744744352",
       "description": "STANLEY CHALK REEL c/w LINE LEVEL",
       "price": "9.89",
       "location": ""
     },
     {
-      "stockCode": "79055000501",
+      "stockCode": "079055000501",
       "description": "ARROW STAPLE GUN HEAVY DUTY",
       "price": "30.68",
       "location": ""
     },
     {
-      "stockCode": "849713078087",
+      "stockCode": "0849713078087",
       "description": "CIRCULAR SAW REVOLUTION R185CCS 185MM",
       "price": "91.00",
       "location": "43A/BACK STAND"
     },
     {
-      "stockCode": "88381068130",
+      "stockCode": "088381068130",
       "description": "MAKITA  ANGLE GRINDER 220V 230MM",
       "price": "158.58",
       "location": "41"
     },
     {
-      "stockCode": "88381068154",
+      "stockCode": "088381068154",
       "description": "MAKITA  ANGLE GRINDER 220V 230MM   2000W 43C/BR1 UP TOP",
       "price": "151.83",
       "location": "43C/BR1 UP TOP"
     },
     {
-      "stockCode": "88381083102",
+      "stockCode": "088381083102",
       "description": "MAKITA JIGSAW 220V    43",
       "price": "96.60",
       "location": "43/"
     },
     {
-      "stockCode": "88381476546",
+      "stockCode": "088381476546",
       "description": "300MM/20MM DIAMOND BLADE MAKITA NEBULA    38A",
       "price": "64.40",
       "location": "38A"
     },
     {
-      "stockCode": "88381606073",
+      "stockCode": "088381606073",
       "description": "MAKITA  ANGLE GRINDER 220V 230MM",
       "price": "154.34",
       "location": ""
     },
     {
-      "stockCode": "88381687300",
+      "stockCode": "088381687300",
       "description": "MAKITA   DRILL HR2630   43B",
       "price": "209.78",
       "location": "43B"
@@ -3070,7 +3070,7 @@
     {
       "stockCode": "16C117",
       "description": "TOTAL  COVER  WHITE  MATT 10LTR  INTERIOR  WALLS & CEILINGS",
-      "price": "32.36",
+      "price": "27.80",
       "location": ""
     },
     {
@@ -3141,7 +3141,7 @@
     },
     {
       "stockCode": "16H171",
-      "description": "OOS  HAMMERITE SMOOTH 1LTR  26C",
+      "description": "HAMMERITE SMOOTH 1LTR  26C",
       "price": "24.42",
       "location": "26C"
     },
@@ -3172,7 +3172,7 @@
     {
       "stockCode": "16P111",
       "description": "AQUAMAX PRIMER UNDERCOAT WHITE INT & EXT 2.5L DULUX",
-      "price": "29.71",
+      "price": "28.90",
       "location": ""
     },
     {
@@ -3226,7 +3226,7 @@
     {
       "stockCode": "16SW085",
       "description": "SATINWOOD WHITE EXTERIOR  WATER BASED 750ML    25D",
-      "price": "14.09",
+      "price": "18.49",
       "location": "25D"
     },
     {
@@ -3274,7 +3274,7 @@
     {
       "stockCode": "16SW122",
       "description": "SATINWOOD AQUAMAX INT & EXT WATER-BASED 2.5L",
-      "price": "34.92",
+      "price": "33.97",
       "location": ""
     },
     {
@@ -3370,7 +3370,7 @@
     {
       "stockCode": "16VM151",
       "description": "VINYL MATT WHITE 10LTR     B2",
-      "price": "45.07",
+      "price": "43.85",
       "location": "B2"
     },
     {
@@ -3436,7 +3436,7 @@
     {
       "stockCode": "16WP115",
       "description": "WOOD PRIMER ALUMINIUM 500ML  26C",
-      "price": "13.00",
+      "price": "11.79",
       "location": "26C"
     },
     {
@@ -4510,7 +4510,7 @@
     {
       "stockCode": "19DC114A",
       "description": "PACK OF 5  DRILL BIT COBALT 10MM HSSE Co5  43/",
-      "price": "31.59",
+      "price": "30.97",
       "location": "43"
     },
     {
@@ -4533,7 +4533,7 @@
     },
     {
       "stockCode": "19DC119",
-      "description": "+DRILL BIT COBALT 13MM HSSE Co5 43",
+      "description": "DRILL BIT COBALT 13MM HSSE Co5 43",
       "price": "14.22",
       "location": "43"
     },
@@ -5032,7 +5032,7 @@
     {
       "stockCode": "19DS051",
       "description": "DRILL BIT STEEL 5MM   43",
-      "price": "2.54",
+      "price": "2.50",
       "location": "42"
     },
     {
@@ -12142,7 +12142,7 @@
     {
       "stockCode": "21T00",
       "description": "TEX SCREW TIMBER 6.3 X 45 QTY 100   27A/BR2-4",
-      "price": "9.23",
+      "price": "9.09",
       "location": "27A/BR2-4"
     },
     {
@@ -12364,7 +12364,7 @@
     {
       "stockCode": "21T32",
       "description": "TEX SCREW TIMBER 6.3 X 150 QTY 100    27A/BR2-4",
-      "price": "33.65",
+      "price": "2120.00",
       "location": "27A/BR2-4"
     },
     {
@@ -12537,7 +12537,7 @@
     },
     {
       "stockCode": "21T822",
-      "description": "APCON CSK HD 6.3 X 82  PAC 10  28A",
+      "description": "3F45 TAPCON CSK HD 6.3 X 82  PAC 10  28A",
       "price": "2.40",
       "location": "28A"
     },
@@ -12801,13 +12801,13 @@
     },
     {
       "stockCode": "22BLA11",
-      "description": "BLANK PLUGS 1/2\"  (INSERT BLANK)  B1-P",
+      "description": "BLANK PLUGS 1/2\"  (INSERT BLANK) D2R",
       "price": "1.04",
       "location": "D2R"
     },
     {
       "stockCode": "22BLA12",
-      "description": "BLANK PLUGS 3/4\"  (INSERT BLANK)  B1-P",
+      "description": "BLANK PLUGS 3/4\"  (INSERT BLANK) D2R",
       "price": "1.04",
       "location": "D2R"
     },
@@ -12981,7 +12981,7 @@
     },
     {
       "stockCode": "22CAP029",
-      "description": "END CAP 1/2\"  B1-J",
+      "description": "END CAP 1/2\"   D1T",
       "price": "3.48",
       "location": "D1T"
     },
@@ -12993,19 +12993,19 @@
     },
     {
       "stockCode": "22CAP049",
-      "description": "END CAP 1\"     B1-O",
+      "description": "END CAP 1\"    D1T",
       "price": "6.27",
       "location": "D1T"
     },
     {
       "stockCode": "22CAP059",
-      "description": "END CAP 1&1/4\"  B1-O",
+      "description": "END CAP 1&1/4\"   D1T",
       "price": "12.32",
       "location": "D1T"
     },
     {
       "stockCode": "22CAP069",
-      "description": "END CAP 1&1/2\"  B1-J",
+      "description": "END CAP 1&1/2\"    D1T",
       "price": "15.08",
       "location": "D1T"
     },
@@ -13052,92 +13052,92 @@
       "location": "1"
     },
     {
-      "stockCode": "22000000000000",
-      "description": "WATER ELBOW POL X POL 1/2\" 25522  44F//45C//D1N",
+      "stockCode": "22E12",
+      "description": "WATER ELBOW POL X POL 1/2\" 25522  44F",
       "price": "5.78",
       "location": "44F"
     },
     {
-      "stockCode": "220000000000000",
-      "description": "WATER ELBOW POL X POL 3/4\" 25533   44F //D1K",
+      "stockCode": "22E13",
+      "description": "WATER ELBOW POL X POL 3/4\" 25533   44F",
       "price": "9.42",
       "location": "44F"
     },
     {
-      "stockCode": "2200000000000000",
-      "description": "WATER ELBOW POL X POL 1\" 25544  (B1)  44F D1K",
+      "stockCode": "22E14",
+      "description": "WATER ELBOW POL X POL 1\" 25544  (B1)  44F",
       "price": "14.23",
       "location": "44F"
     },
     {
-      "stockCode": "2.2E+016",
-      "description": "WATER ELBOW POL X POL 1\"&1/4 25555  D1-I",
+      "stockCode": "22E15",
+      "description": "WATER ELBOW POL X POL 1\"&1/4 25555  D2M",
       "price": "18.72",
       "location": "D2M"
     },
     {
-      "stockCode": "2.2E+017",
-      "description": "WATER ELBOW POL X POL 1\"&1/2 25566 45C// D1N",
+      "stockCode": "22E16",
+      "description": "WATER ELBOW POL X POL 1\"&1/2 25566  D1M",
       "price": "27.25",
       "location": "D1M"
     },
     {
-      "stockCode": "2.2E+018",
-      "description": "WATER ELBOW POL X POL 2\" 25577  D1 K",
+      "stockCode": "22E17",
+      "description": "WATER ELBOW POL X POL 2\" 25577  D1M",
       "price": "31.54",
       "location": "D1M"
     },
     {
-      "stockCode": "2.2E+019",
-      "description": "WATER ELBOW POL X FEMALE 1/2\" X 1/2\" IRON 44F  45C//D1I",
+      "stockCode": "22E18",
+      "description": "WATER ELBOW POL X FEMALE 1/2\" X 1/2\" IRON  44F/DL",
       "price": "5.18",
       "location": "44F"
     },
     {
-      "stockCode": "2.2E+020",
-      "description": "WATER ELBOW POL X FEMALE 1/2\" X 3/4\" POL X F I  45C//D1N",
+      "stockCode": "22E19",
+      "description": "WATER ELBOW POL X FEMALE 1/2\" X 3/4\" POL X F I",
       "price": "5.04",
       "location": "D2L"
     },
     {
       "stockCode": "22E19A",
-      "description": "WATER ELBOW POL X FEMALE  3/4\" X 1/2\" POL X F I  IRON 44F- 45C//D1N",
+      "description": "WATER ELBOW POL X FEMALE  3/4\" X 1/2\" POL X F I  IRON  D2L",
       "price": "4.68",
       "location": "D2L"
     },
     {
-      "stockCode": "2.2E+021",
-      "description": "WATER ELBOW POL X FEM 3/4\" X 3/4\" 25MM   44F D1-L",
+      "stockCode": "22E20",
+      "description": "WATER ELBOW POL X FEM 3/4\" X 3/4\" 25MM   44F",
       "price": "5.92",
       "location": "44F"
     },
     {
-      "stockCode": "2.2E+022",
-      "description": "WATER ELBOW  1\" X 1\" POLXF I   D1L",
+      "stockCode": "22E21",
+      "description": "WATER ELBOW  1\" X 1\" POLXF I   D1M",
       "price": "9.24",
       "location": "D1M"
     },
     {
-      "stockCode": "2.2E+023",
-      "description": "WATER ELBOW POL X FEMALE 1\"&1/4 X 1\"&1/4  2565 D1K",
+      "stockCode": "22E22",
+      "description": "WATER ELBOW POL X FEMALE 1\"&1/4 X 1\"&1/4  2565",
       "price": "16.38",
       "location": "D1L"
     },
     {
-      "stockCode": "2.2E+024",
-      "description": "WATER ELBOW POL X FEMALE 1\"&1/2 X 1\"&1/2 25665 D1K",
+      "stockCode": "22E23",
+      "description": "WATER ELBOW POL X FEMALE 1\"&1/2 X 1\"&1/2 25665",
       "price": "18.90",
       "location": "D1L"
     },
     {
-      "stockCode": "2.2E+025",
-      "description": "WATER ELBOW POL X FEMALE 2\" X 2\" POL X F I 256  D1K",
+      "stockCode": "22E24",
+      "description": "WATER ELBOW POL X FEMALE 2\" X 2\" POL X F I 256",
       "price": "24.78",
       "location": "D1L"
     },
     {
-      "stockCode": "2.2E+026",
-      "description": "WATER ELBOW POL X MALE 3/4 X 3/4\"   44F D1K",
+      "stockCode": "22E25",
+      "description": "WATER ELBOW POL X MALE 3/4 X 3/4\"   44F",
       "price": "6.23",
       "location": "44F"
     },
@@ -13257,13 +13257,13 @@
     },
     {
       "stockCode": "22IN111",
-      "description": "INSERT 1/2\" BLUE HEAVY GAUGE   B1-O",
+      "description": "INSERT 1/2\" BLUE HEAVY GAUGE   D1K",
       "price": "0.50",
       "location": "D1K"
     },
     {
       "stockCode": "22IN113",
-      "description": "INSERT 3/4\" BLUE HEAVY GAUGE B1-O",
+      "description": "INSERT 3/4\" BLUE HEAVY GAUGE   D1K",
       "price": "0.83",
       "location": "D1K"
     },
@@ -13539,31 +13539,31 @@
     },
     {
       "stockCode": "22J06",
-      "description": "WATER JOINER POL X POL 1/2\"    44F/BACKSTORE B1-O",
+      "description": "WATER JOINER POL X POL 1/2\"    44F/BACKSTORE",
       "price": "4.56",
       "location": "44F/BACKSTORE"
     },
     {
       "stockCode": "22J11",
-      "description": "WATER JOINER POL X POL 3/4\" 25MM   44F  B1-P",
+      "description": "WATER JOINER POL X POL 3/4\" 25MM   44F",
       "price": "4.82",
       "location": "44F"
     },
     {
       "stockCode": "22J12",
-      "description": "WATER JOINER POLXPOL 1\" 25144  (C1)  44F B1-P",
+      "description": "WATER JOINER POLXPOL 1\" 25144  (C1)  44F",
       "price": "10.88",
       "location": "44F"
     },
     {
       "stockCode": "22J15",
-      "description": "WATER JOINER POLXPOL 1\"&1/4 25155  D1-O",
+      "description": "WATER JOINER POLXPOL 1\"&1/4 25155  D1P",
       "price": "20.64",
       "location": "D1P"
     },
     {
       "stockCode": "22J16",
-      "description": "WATER JOINER POL X POL 1\"&1/2 25166  B1-P",
+      "description": "WATER JOINER POL X POL 1\"&1/2 25166  D1P",
       "price": "21.88",
       "location": "D1P"
     },
@@ -13581,19 +13581,19 @@
     },
     {
       "stockCode": "22J24",
-      "description": "WATER REDUCTION JOINER POL POL 3/4x1/2 25132  44F/BACKSTORE D1-I",
+      "description": "WATER REDUCTION JOINER POL POL 3/4x1/2 25132  44F/BACKSTORE",
       "price": "6.92",
       "location": "44F/BACKSTORE"
     },
     {
       "stockCode": "22J26",
-      "description": "WATER REDUCER  JOINER POLXPOL 1\"X1/2\"   B1-O",
+      "description": "WATER REDUCER  JOINER POLXPOL 1\"X1/2\"   D1O",
       "price": "12.14",
       "location": "D10"
     },
     {
       "stockCode": "22J27",
-      "description": "WATER REDUCTION JOINER POLXPOL 1\"X3/4\" 25143  D1-I",
+      "description": "WATER REDUCTION JOINER POLXPOL 1\"X3/4\" 25143  D1O/NEW STAND",
       "price": "12.14",
       "location": "D1O/NEW STAND"
     },
@@ -13605,7 +13605,7 @@
     },
     {
       "stockCode": "22J31",
-      "description": "WATER REDUCTION JOINER POLXPOL 1\"&1/2 X 1\"&1/4  25165  D1-I",
+      "description": "WATER REDUCTION JOINER POLXPOL 1\"&1/2 X 1\"&1/4  25165  D1O",
       "price": "32.50",
       "location": "D1O"
     },
@@ -13938,12 +13938,6 @@
       "description": "LANCE ARM PFL ZINC PL 1500MM    US69 A3",
       "price": "22.10",
       "location": "US69 A3"
-    },
-    {
-      "stockCode": "22LA141",
-      "description": "KNAPSACK LANCE SPRAYER 760MM 3/8\" HOSETAIL   US69A3",
-      "price": "18.54",
-      "location": "US69A3"
     },
     {
       "stockCode": "22LJ121",
@@ -14284,7 +14278,7 @@
     {
       "stockCode": "22PW114",
       "description": "1400W 105 BAR PRESSURE WASHER  1B6D",
-      "price": "130.50",
+      "price": "121.50",
       "location": "1B6D"
     },
     {
@@ -14357,7 +14351,7 @@
       "stockCode": "22PW193",
       "description": "POWER WASHER HOSE 20M 210 BAR 2XST30C   70E4",
       "price": "113.32",
-      "location": "700000"
+      "location": "70E4"
     },
     {
       "stockCode": "22PW205",
@@ -14667,13 +14661,13 @@
     },
     {
       "stockCode": "22T12",
-      "description": "WATER TEE 1/2\" POL X POL (T12)   44F    B1-KL",
+      "description": "WATER TEE 1/2\" POL X POL (T12)   44F",
       "price": "7.27",
       "location": "44F"
     },
     {
       "stockCode": "22T13",
-      "description": "WATER TEE 3/4\" POL X POL  44F  B1-M",
+      "description": "WATER TEE 3/4\" POL X POL  44F",
       "price": "10.86",
       "location": "44F"
     },
@@ -14685,13 +14679,13 @@
     },
     {
       "stockCode": "22T15",
-      "description": "WATER TEE 1\" POL X POL 25344     44F   B1-P",
+      "description": "WATER TEE 1\" POL X POL 25344     44F",
       "price": "16.00",
       "location": "44F"
     },
     {
       "stockCode": "22T16",
-      "description": "WATER TEE 1 & 1/4\" POL X POL 25355  B1-KL",
+      "description": "WATER TEE 1 & 1/4\" POL X POL 25355  D1N",
       "price": "29.20",
       "location": "D1N"
     },
@@ -14703,7 +14697,7 @@
     },
     {
       "stockCode": "22T18",
-      "description": "WATER TEE 2\" POL X POL 25377M  B1-KL",
+      "description": "WATER TEE 2\" POL X POL 25377M  D1N",
       "price": "44.84",
       "location": "D1N"
     },
@@ -14715,13 +14709,13 @@
     },
     {
       "stockCode": "22T20",
-      "description": "WATER TEE POL X FEMALE 3/4\" X 3/4\" 25432 B1-KL",
+      "description": "WATER TEE POL X FEMALE 3/4\" X 3/4\" 25432  D2K",
       "price": "9.22",
       "location": "D2K"
     },
     {
       "stockCode": "22T21",
-      "description": "WATER TEE POL X FEMALE 1\" X 1\" TEE  POL X FI 25443  B1-O",
+      "description": "WATER TEE POL X FEMALE 1\" X 1\" TEE  POL X FI 25443   D2K",
       "price": "13.86",
       "location": "D2K"
     },
@@ -14733,7 +14727,7 @@
     },
     {
       "stockCode": "22T23",
-      "description": "WATER TEE POL X FEMALE 1&1/2\" X 1&1/2\"  B1-KL",
+      "description": "WATER TEE POL X FEMALE 1&1/2\" X 1&1/2\"   D1K",
       "price": "29.38",
       "location": "D1K"
     },
@@ -14847,13 +14841,13 @@
     },
     {
       "stockCode": "22THR26",
-      "description": "WATER BLANK PLUGS THREADED 1/2\" - SQ HEAD 4011  D1Q",
+      "description": "WATER BLANK PLUGS THREADED 1/2\" - SQ HEAD 4011  D1T",
       "price": "1.56",
       "location": "D1T"
     },
     {
       "stockCode": "22THR27",
-      "description": "WATER BLANK PLUGS THREADED 3/4\" - SQ HEAD 4022  D1Q",
+      "description": "WATER BLANK PLUGS THREADED 3/4\" - SQ HEAD 4022  D1T",
       "price": "1.98",
       "location": "D1T"
     },
@@ -14877,7 +14871,7 @@
     },
     {
       "stockCode": "22THR31",
-      "description": "WATER BLANK PLUGS THREADED 2\" - SQ HEAD 4066  D1Q",
+      "description": "WATER BLANK PLUGS THREADED 2\" - SQ HEAD 4066  D1T",
       "price": "3.63",
       "location": "D1T"
     },
@@ -15141,31 +15135,31 @@
     },
     {
       "stockCode": "22VAL15",
-      "description": "BALLVALVE POL X POL 1/2\" X1/2\" (20MM) 55272   44F/     D1 S",
+      "description": "BALLVALVE POL X POL 1/2\" X1/2\" (20MM) 55272   44F/",
       "price": "18.12",
       "location": "44F"
     },
     {
       "stockCode": "22VAL16",
-      "description": "BALLVALVE POL X POL 3/4\" X3/4\" 20MM   44F    D1Q",
+      "description": "BALLVALVE POL X POL 3/4\" X3/4\" 20MM   44F",
       "price": "19.16",
       "location": "44F"
     },
     {
       "stockCode": "22VAL18",
-      "description": "BALLVALVE POL X POL 1\" X 1\" 25MM 55373    D1 S",
+      "description": "BALLVALVE POL X POL 1\" X 1\" 25MM 55373  3B2",
       "price": "30.62",
       "location": "3B2"
     },
     {
       "stockCode": "22VAL19",
-      "description": "BALLVALVE 1&1/4\"   D1 S",
+      "description": "BALLVALVE 1&1/4\"   D2J",
       "price": "24.22",
       "location": "D2J"
     },
     {
       "stockCode": "22VAL19A",
-      "description": "BALLVALVE 1&1/2\"    D1 S",
+      "description": "BALLVALVE 1&1/2\"     D2J",
       "price": "32.52",
       "location": "D2J"
     },
@@ -15214,13 +15208,13 @@
     {
       "stockCode": "22VAL27",
       "description": "BALLVALVE MI X MI 3/4\" X 3/4\" 20MM 55002  45C",
-      "price": "26.06",
+      "price": "25.06",
       "location": "45C"
     },
     {
       "stockCode": "22VAL28",
       "description": "BALLVALVE MI X MI  1\" X1\" 55003  45C",
-      "price": "27.93",
+      "price": "23.21",
       "location": "45C"
     },
     {
@@ -15447,13 +15441,13 @@
     },
     {
       "stockCode": "22WE111",
-      "description": "WALL PLATE ELBOW 1/2\"    44F/    D1Q",
+      "description": "WALL PLATE ELBOW 1/2\"    44F/",
       "price": "8.96",
       "location": "44F"
     },
     {
       "stockCode": "22WE131",
-      "description": "WALL PLATE ELBOW 3/4\"   44F/C1FLOOR 1    D1Q",
+      "description": "WALL PLATE ELBOW 3/4\"   44F/C1FLOOR 1",
       "price": "13.12",
       "location": "44F/"
     },
@@ -16322,127 +16316,127 @@
       "location": "NEW SHED"
     },
     {
-      "stockCode": "23000000000000",
+      "stockCode": "23E12",
       "description": "1/2\" ELBOWS COP X COP 315  18B1",
       "price": "4.69",
       "location": "18B1"
     },
     {
-      "stockCode": "2300000000000000",
+      "stockCode": "23E14",
       "description": "3/4\"  ELBOWS COP X COP 315  18B1/69B4",
       "price": "4.08",
       "location": "18B1/69B4"
     },
     {
-      "stockCode": "2.3E+017",
+      "stockCode": "23E16",
       "description": "1\" ELBOW COP X COP 315  18B1",
       "price": "7.66",
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+019",
+      "stockCode": "23E18",
       "description": "1&1/4\" ELBOWS COP X COP 315004  18B1",
       "price": "14.88",
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+021",
+      "stockCode": "23E20",
       "description": "1&1/2\" ELBOWS COP X COP 315  18B1",
       "price": "24.48",
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+029",
+      "stockCode": "23E28",
       "description": "1/2\" X 1/2\" ELBOWS COP X M IRON 316 18B2",
       "price": "3.02",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+031",
+      "stockCode": "23E30",
       "description": "3/4\" X 3/4\" ELBOWS COP X M IRON 316003  18B2",
       "price": "4.16",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+033",
+      "stockCode": "23E32",
       "description": "1\" X 1\" ELBOW COP - MI 316003  18B2",
       "price": "6.30",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+035",
+      "stockCode": "23E34",
       "description": "1&1/4\" ELBOW COP - MI 316  15B2",
       "price": "20.31",
       "location": "15B2"
     },
     {
-      "stockCode": "2.3E+037",
+      "stockCode": "23E36",
       "description": "1&1/2\" ELBOW COP - MI 316  15B2",
       "price": "26.74",
       "location": "15B2"
     },
     {
-      "stockCode": "2.3E+041",
+      "stockCode": "23E40",
       "description": "3/4M X 1/2\" ELBOWS COP X M .IRON 316 18B2",
       "price": "7.80",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+043",
+      "stockCode": "23E42",
       "description": "1\" X 3/4\" ELBOWS  COP X M. IRON 316  18B2",
       "price": "7.04",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+045",
+      "stockCode": "23E44",
       "description": "1/2M X 3/4\" ELBOWS COP X M. IRON 316P  18B2",
       "price": "6.00",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+049",
+      "stockCode": "23E48",
       "description": "1/2\" X 1/2\" ELBOWS F. I  X COP 317  18B1",
       "price": "3.38",
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+050",
+      "stockCode": "23E49",
       "description": "1/2\" X 1/2\" BRASS NUT 18B1",
       "price": "0.86",
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+051",
+      "stockCode": "23E50",
       "description": "3/4\" X 3/4\" ELBOWS F.I X COP 317  18B1/US71B5",
       "price": "4.64",
       "location": "18B1/US71B5"
     },
     {
-      "stockCode": "2.3E+052",
+      "stockCode": "23E51",
       "description": "1\" X 3/4 FI TO COP  NO 317  18B1",
       "price": "7.63",
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+053",
+      "stockCode": "23E52",
       "description": "1\" X 1\" ELBOW FI X COPPER 317  18B1",
       "price": "6.87",
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+069",
+      "stockCode": "23E68",
       "description": "WALLPLATE ELBOW- F.I TO COP 1/2\" 321 18B2",
       "price": "5.96",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+073",
+      "stockCode": "23E72",
       "description": "WALLPLATE ELBOW - F.I TO COP 3/4\" 18B2",
       "price": "11.36",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+075",
+      "stockCode": "23E74",
       "description": "WALLPLATE ELBOW - 1/2F X 3/4\"(POLYTHENE) 321 18B2",
       "price": "15.11",
       "location": "18B2"
@@ -16454,43 +16448,43 @@
       "location": "18B1"
     },
     {
-      "stockCode": "2.3E+078",
+      "stockCode": "23E77",
       "description": "ELBOW 1/2\" WITH SCREW VALVE  (327) 18B2",
       "price": "3.67",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+079",
+      "stockCode": "23E78",
       "description": "SWIVEL  ELBOW - 1/2\" - F.I   TO  COP 327001 18B2",
       "price": "5.96",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+080",
+      "stockCode": "23E79",
       "description": "SWIVEL ELBOW-3/4\"- F.I TO CO 327002 18B2",
       "price": "8.90",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+083",
+      "stockCode": "23E82",
       "description": "1/2\" DRAW OFF COCKS 471  18B2",
       "price": "11.15",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+085",
+      "stockCode": "23E84",
       "description": "3/4\" DRAW OFF COCKS 3710002",
       "price": "9.25",
       "location": "15B5"
     },
     {
-      "stockCode": "2.3E+091",
+      "stockCode": "23E90",
       "description": "1/2\" DRAW OFF COCKS 871  18B2",
       "price": "9.17",
       "location": "18B2"
     },
     {
-      "stockCode": "2.3E+092",
+      "stockCode": "23E91",
       "description": "3/4\" DRAW OFF COCKS 371002 18B2",
       "price": "12.54",
       "location": "18B2"
@@ -17368,13 +17362,13 @@
     {
       "stockCode": "23QN151",
       "description": "QUICK RELEASE NIPPLE 1/4\" FEMALE - ZINC  18B4",
-      "price": "9.53",
+      "price": "3.88",
       "location": "18B4"
     },
     {
       "stockCode": "23QN153",
       "description": "QUICK RELEASE NIPPLE 1/4\" MALE - ZINC  18B4",
-      "price": "9.53",
+      "price": "3.78",
       "location": "18B4"
     },
     {
@@ -17776,7 +17770,7 @@
     {
       "stockCode": "23T38",
       "description": "1 X 1 X 1/2\" UNEQUAL TEE  18B2",
-      "price": "10.89",
+      "price": "7.69",
       "location": "18B2"
     },
     {
@@ -19563,7 +19557,7 @@
     },
     {
       "stockCode": "25GG125",
-      "description": "GREASE GUN CORDLESS LITHIUM 14.4V   BATTERY 43D",
+      "description": "GREASE GUN CORDLESS LITHIUM 14.4V",
       "price": "286.65",
       "location": "43D"
     },
@@ -19744,7 +19738,7 @@
     {
       "stockCode": "25J131",
       "description": "5 LTR  MEASURE JUG  34C",
-      "price": "22.73",
+      "price": "21.21",
       "location": "34C"
     },
     {
@@ -20444,31 +20438,31 @@
       "location": ""
     },
     {
-      "stockCode": "2.6E+102",
+      "stockCode": "26E101",
       "description": "10MM ACORN ELBOW PB110",
       "price": "2.77",
       "location": "15B8"
     },
     {
-      "stockCode": "2.6E+152",
+      "stockCode": "26E151",
       "description": "15MM ACORN ELBOW PB115",
       "price": "2.55",
       "location": ""
     },
     {
-      "stockCode": "2.6E+222",
+      "stockCode": "26E221",
       "description": "22MM ACORN ELBOW PB122   18B",
       "price": "3.80",
       "location": "18B"
     },
     {
-      "stockCode": "2.6E+282",
+      "stockCode": "26E281",
       "description": "28MM ACORN ELBOW PB128",
       "price": "7.10",
       "location": ""
     },
     {
-      "stockCode": "2.6E+302",
+      "stockCode": "26E301",
       "description": "ACORN 15MM X 1/2\" ELBOW (TAP CONN)",
       "price": "4.78",
       "location": "15B8"
@@ -21328,7 +21322,7 @@
     {
       "stockCode": "27C33",
       "description": "MET/IMPERIAL CONN KIT 20/  1/2\" 99002  45B/BR1 4G",
-      "price": "1.22",
+      "price": "1.17",
       "location": "45B/BR1 4G"
     },
     {
@@ -21364,7 +21358,7 @@
     {
       "stockCode": "27C39",
       "description": "CONNECTION KIT 1&1/4\" RED  45D",
-      "price": "3.74",
+      "price": "3.60",
       "location": "45D"
     },
     {
@@ -21464,37 +21458,37 @@
       "location": "4A3C"
     },
     {
-      "stockCode": "27000000000000",
+      "stockCode": "27E12",
       "description": "1/2\" ELBOW POL X POL  45C/BR1",
       "price": "7.40",
       "location": "45C/BR1"
     },
     {
-      "stockCode": "270000000000000",
+      "stockCode": "27E13",
       "description": "3/4\" ELBOW POL X POL  45C/  BR1- 4E&E5",
       "price": "10.82",
       "location": "4E&E5"
     },
     {
-      "stockCode": "2700000000000000",
+      "stockCode": "27E14",
       "description": "1\" ELBOW POL X POL  45C/BR1-3B",
       "price": "16.60",
       "location": "45C/"
     },
     {
-      "stockCode": "2.7E+016",
+      "stockCode": "27E15",
       "description": "1&1/4\" ELBOW POL X POL 934555  45C/",
       "price": "27.89",
       "location": "45C/"
     },
     {
-      "stockCode": "2.7E+017",
+      "stockCode": "27E16",
       "description": "1&1/2\" ELBOW POL X POL 934566  45C",
       "price": "36.71",
       "location": "45C"
     },
     {
-      "stockCode": "2.7E+018",
+      "stockCode": "27E17",
       "description": "2\" ELBOW POL X POL 934577  45C/",
       "price": "45.17",
       "location": "45C/"
@@ -21506,13 +21500,13 @@
       "location": "45C/"
     },
     {
-      "stockCode": "2.7E+019",
+      "stockCode": "27E18",
       "description": "1/2\" X1/2\" ELBOW POL X FI  45C BR1-3D",
       "price": "6.16",
       "location": "45C/"
     },
     {
-      "stockCode": "2.7E+020",
+      "stockCode": "27E19",
       "description": "1/2\" X 3/4\" ELBOW POL X FI  45C",
       "price": "7.56",
       "location": "45C"
@@ -21524,7 +21518,7 @@
       "location": "45C"
     },
     {
-      "stockCode": "2.7E+021",
+      "stockCode": "27E20",
       "description": "3/4\" X 3/4\" ELBOW POL X FI  45C/BR15C",
       "price": "8.22",
       "location": "45C/BR15C"
@@ -21536,7 +21530,7 @@
       "location": "45C"
     },
     {
-      "stockCode": "2.7E+022",
+      "stockCode": "27E21",
       "description": "1\" X 1\" ELBOW POL X FI  45C",
       "price": "12.52",
       "location": "45C"
@@ -21548,7 +21542,7 @@
       "location": "45C"
     },
     {
-      "stockCode": "2.7E+023",
+      "stockCode": "27E22",
       "description": "1&1/4\" X 1&1/4\" ELBOW POL X FI  45C",
       "price": "22.78",
       "location": "45C"
@@ -21560,7 +21554,7 @@
       "location": "45C"
     },
     {
-      "stockCode": "2.7E+024",
+      "stockCode": "27E23",
       "description": "1&1/2\" X 1&1/2\" ELBOW POL X FI  45C",
       "price": "26.05",
       "location": "45C"
@@ -21572,7 +21566,7 @@
       "location": "45C"
     },
     {
-      "stockCode": "2.7E+025",
+      "stockCode": "27E24",
       "description": "2\" X 2\" ELBOW POL X FI  45C",
       "price": "35.48",
       "location": "45C"
@@ -21718,7 +21712,7 @@
     {
       "stockCode": "27RED26",
       "description": "IMP 3/4\" X 1/2\" NORMAL GAUGE REDUCING SET   45A",
-      "price": "4.89",
+      "price": "4.70",
       "location": "45A"
     },
     {
@@ -21868,13 +21862,13 @@
     {
       "stockCode": "27T20A",
       "description": "3/4\" X 1\" TEE POL X FI 934433  45B",
-      "price": "12.54",
+      "price": "9.21",
       "location": "45B"
     },
     {
       "stockCode": "27T20B",
       "description": "1\" X 1/2\" TEE POL X FI 934441  45B",
-      "price": "19.05",
+      "price": "13.98",
       "location": "45B"
     },
     {
@@ -22282,7 +22276,7 @@
     {
       "stockCode": "28BB221",
       "description": "100W GLOBE BULB - BATHROOM    40A/",
-      "price": "14.00",
+      "price": "13.95",
       "location": "40A/"
     },
     {
@@ -24513,7 +24507,7 @@
     },
     {
       "stockCode": "28FH111",
-      "description": "SPLASHPROOF BLADE FUSE HOLDER/3B7",
+      "description": "SPLASHPROOF BLADE FUSE HOLDER/3B7 KRAMP-LFHA2C",
       "price": "3.72",
       "location": "3B7"
     },
@@ -24844,13 +24838,13 @@
     {
       "stockCode": "28GL115",
       "description": "5-10 DIA. 9MM THREAD PG11 1.5MM CABLE GLAND & LOCKNUT  40B",
-      "price": "1.58",
+      "price": "0.90",
       "location": "40B"
     },
     {
       "stockCode": "28GL117",
       "description": "M32 X 1.5 GLAND LARGE  40B",
-      "price": "2.92",
+      "price": "1.30",
       "location": "40B"
     },
     {
@@ -25766,12 +25760,6 @@
       "location": "3B1"
     },
     {
-      "stockCode": "28R115",
-      "description": "RELAY  3B1B",
-      "price": "11.36",
-      "location": "3B1B"
-    },
-    {
       "stockCode": "28R201",
       "description": "RESISTOR- LIGHTING 12V 50W  3B4",
       "price": "7.54",
@@ -25882,7 +25870,7 @@
     {
       "stockCode": "28S301",
       "description": "ALL WEATHER OUTDOOR SINGLE SOCKET-SQ PIN   39A",
-      "price": "16.43",
+      "price": "14.92",
       "location": "39A"
     },
     {
@@ -25942,7 +25930,7 @@
     {
       "stockCode": "28S517",
       "description": "SAFETY SWITCH-40AMP LOAD BREAK   IP65 3P  40D",
-      "price": "39.11",
+      "price": "28.88",
       "location": "40D"
     },
     {
@@ -27550,7 +27538,7 @@
     {
       "stockCode": "29PR131",
       "description": "PRIMER SEALER B-I-N 1 LTR   26C/63D3",
-      "price": "33.07",
+      "price": "32.10",
       "location": "26C/63D3"
     },
     {
@@ -27861,9 +27849,9 @@
     },
     {
       "stockCode": "29R100",
-      "description": "4\" PAINT ROLLER MINI-KIT (& 2 SLEEVES)   26B/",
+      "description": "4\" PAINT ROLLER MINI-KIT (& 2 SLEEVES)   26B/US63B2",
       "price": "4.28",
-      "location": "26B"
+      "location": "26B/US63B2"
     },
     {
       "stockCode": "29R101",
@@ -28066,7 +28054,7 @@
     {
       "stockCode": "29T113",
       "description": "THINNERS 5L STANDARD  FOR WASHING OUT-CHEAP  26A/3A",
-      "price": "21.24",
+      "price": "19.85",
       "location": "26A/3A"
     },
     {
@@ -30242,49 +30230,49 @@
       "location": "HYD"
     },
     {
-      "stockCode": "3E+213",
+      "stockCode": "30E212",
       "description": "1/4\" MALE X 1/4\" FEMALE ELBOW  4MBSPP-4FBSPP90SWT",
       "price": "7.92",
       "location": "HYD"
     },
     {
-      "stockCode": "3E+214",
+      "stockCode": "30E213",
       "description": "1/4\" MALE X 3/8\" FEMALE ELBOW BSP X BSP",
       "price": "14.94",
       "location": "HYD"
     },
     {
-      "stockCode": "3E+223",
+      "stockCode": "30E222",
       "description": "3/4\" MALE X 3/4\" FEMALE ELBOW  12MBSPP-12FBSPP90SWT",
       "price": "15.67",
       "location": "HYD"
     },
     {
-      "stockCode": "3E+233",
+      "stockCode": "30E232",
       "description": "1/2\" MALE X 1/2\" FEMALE ELBOW 90  8MBSPP-8FBSPP90SWT",
       "price": "10.87",
       "location": "HYD"
     },
     {
-      "stockCode": "3E+243",
+      "stockCode": "30E242",
       "description": "3/8\" MALE X 3/8\" FEMALE ELBOW 6MBSPP-6FBSPP90SWT",
       "price": "9.70",
       "location": "HYD"
     },
     {
-      "stockCode": "3E+253",
+      "stockCode": "30E252",
       "description": "5/8\" MALE X 5/8\" FEMALE ELBOW",
       "price": "17.49",
       "location": "HYD"
     },
     {
-      "stockCode": "3E+263",
+      "stockCode": "30E262",
       "description": "1/2\" MALE X 3/8\" FEMALE ELBOW",
       "price": "14.71",
       "location": "HYD"
     },
     {
-      "stockCode": "3E+273",
+      "stockCode": "30E272",
       "description": "1\" MALE X 1\" FEMALE ELBOW BSP  16MBSPP-16FBSPP",
       "price": "24.95",
       "location": "HYD"
@@ -35008,7 +34996,7 @@
     {
       "stockCode": "30Q250",
       "description": "1\" MALE QR FLATFACED X 1\" FEMALE THREAD",
-      "price": "60.74",
+      "price": "50.56",
       "location": "46C"
     },
     {
@@ -36112,7 +36100,7 @@
     {
       "stockCode": "3253560108106",
       "description": "STANLEY QUICKSLIDE KNIFE   41C",
-      "price": "11.15",
+      "price": "10.08",
       "location": "41C"
     },
     {
@@ -36250,7 +36238,7 @@
     {
       "stockCode": "3253560581206",
       "description": "STANLEY CENTRE PUNCH    41",
-      "price": "4.34",
+      "price": "3.94",
       "location": "41"
     },
     {
@@ -37252,7 +37240,7 @@
     {
       "stockCode": "33B418A",
       "description": "BEARING 6205 2RS   FAG   25X52X15    44D",
-      "price": "6.84",
+      "price": "6.60",
       "location": "44D"
     },
     {
@@ -39970,7 +39958,7 @@
     {
       "stockCode": "34GH525",
       "description": "HANGER HEAVY DUTY RSJ  BOTTOM  GALV    47D",
-      "price": "18.15",
+      "price": "14.25",
       "location": "47D"
     },
     {
@@ -40857,9 +40845,9 @@
     },
     {
       "stockCode": "35G2455B",
-      "description": "PULLEY INC BRG-BUSH-BOLT 120MM   46",
+      "description": "PULLEY INC BRG-BUSH-BOLT 120MM",
       "price": "14.31",
-      "location": "46"
+      "location": ""
     },
     {
       "stockCode": "35G2455C",
@@ -42970,7 +42958,7 @@
     {
       "stockCode": "38V22A",
       "description": "22A FANBELT  US75",
-      "price": "4.18",
+      "price": "3.34",
       "location": "US75"
     },
     {
@@ -45212,7 +45200,7 @@
       "location": "3B11"
     },
     {
-      "stockCode": "4.1E+112",
+      "stockCode": "41E111",
       "description": "JOINER 2-PCE 1&1/4\" 90-DEG BEND GALV.  4A2G",
       "price": "14.16",
       "location": "4A2G"
@@ -46022,13 +46010,13 @@
       "location": ""
     },
     {
-      "stockCode": "4.2E+112",
+      "stockCode": "42E111",
       "description": "EARTH BAR LARGE - ANGLED  20A",
       "price": "11.63",
       "location": "20A"
     },
     {
-      "stockCode": "4.2E+114",
+      "stockCode": "42E113",
       "description": "EARTH STAKE + U BOLT (FOR FENCING)  COUNTER",
       "price": "14.40",
       "location": "COUNTER"
@@ -47536,7 +47524,7 @@
     {
       "stockCode": "43HNW4FT",
       "description": "BAY 55A - HARE NETT WIRE  MESH 4FT X 1\" MESH - 30MTR LONG",
-      "price": "156.00",
+      "price": "78.00",
       "location": "BAY 55A"
     },
     {
@@ -47812,7 +47800,7 @@
     {
       "stockCode": "44CAS116",
       "description": "FIRST LIFE COLOSTRUM 250G    23B",
-      "price": "21.00",
+      "price": "19.00",
       "location": "23B"
     },
     {
@@ -48254,7 +48242,7 @@
       "location": "C1B"
     },
     {
-      "stockCode": "4.4E+112",
+      "stockCode": "44E111",
       "description": "ELBOW         6BB6",
       "price": "1.25",
       "location": "6BB6"
@@ -48766,7 +48754,7 @@
     {
       "stockCode": "44PR030",
       "description": "RAT BAIT STORM 3KG  BLOCK POISON  7A5A",
-      "price": "46.50",
+      "price": "39.75",
       "location": "7A5A"
     },
     {
@@ -48801,8 +48789,8 @@
     },
     {
       "stockCode": "44PR100",
-      "description": "RAT BAIT STORM 9KG BLOCK POISON  1B5B",
-      "price": "118.50",
+      "description": "RAT BAIT STORM 10KG BLOCK POISON  1B5B",
+      "price": "96.20",
       "location": "1B5B"
     },
     {
@@ -49156,7 +49144,7 @@
     {
       "stockCode": "45B222",
       "description": "FLOAT ASSEMBLY SINGLE BOWL (A44) TO SUIT A102 BOWL  44D",
-      "price": "19.20",
+      "price": "15.17",
       "location": "44D"
     },
     {
@@ -49534,7 +49522,7 @@
     {
       "stockCode": "45GF105",
       "description": "TEETH FEEDER - ADAPTOR PEL       6BB4",
-      "price": "4.55",
+      "price": "4.07",
       "location": "6BB4"
     },
     {
@@ -51074,31 +51062,31 @@
       "location": "C7"
     },
     {
-      "stockCode": "4.6E+102",
+      "stockCode": "46E101",
       "description": "EAGLESPRAY 120G 04315",
       "price": "94.69",
       "location": ""
     },
     {
-      "stockCode": "4.6E+112",
+      "stockCode": "46E111",
       "description": "ELATUS ERA 5LTR   05379  D4E",
       "price": "341.88",
       "location": "D4E"
     },
     {
-      "stockCode": "4.6E+121",
+      "stockCode": "46E120",
       "description": "ENVY 3LTR  05806",
       "price": "75.00",
       "location": "D6E"
     },
     {
-      "stockCode": "4.6E+132",
+      "stockCode": "46E131",
       "description": "EPSO TOP (EPSOM SALTS) 25KG  D6F",
       "price": "15.94",
       "location": "D6F"
     },
     {
-      "stockCode": "4.6E+142",
+      "stockCode": "46E141",
       "description": "EPSO BORTOP 25KG",
       "price": "31.88",
       "location": ""
@@ -51160,19 +51148,19 @@
     {
       "stockCode": "46G101",
       "description": "GALLUP -1LTR CONTROL BROADLEAVED & GRASS WEEDS 04738  D4D",
-      "price": "15.56",
+      "price": "15.44",
       "location": "D4D"
     },
     {
       "stockCode": "46G104",
       "description": "GALLUP BIOGRADE- 5 LTR (DOES 2&1/2 ACRES) 05570  D4D",
-      "price": "42.44",
+      "price": "41.82",
       "location": "D4D"
     },
     {
       "stockCode": "46G107",
       "description": "GALLUP 360  XL 20LTR - DOES 10 ACRES  05570 C4C",
-      "price": "98.69",
+      "price": "96.25",
       "location": "C4C"
     },
     {
@@ -51369,7 +51357,7 @@
     },
     {
       "stockCode": "46M119",
-      "description": "MANTRAC PRO 500 5Ltr (500g/l MANGANESE) D3D",
+      "description": "MANTRAC PRO 500 5Ltr (500g/l MANGANESE)",
       "price": "39.56",
       "location": "D3D"
     },
@@ -51442,7 +51430,7 @@
     {
       "stockCode": "46M165",
       "description": "MOSS OUT LAWN LIQUID 10LTR",
-      "price": "34.00",
+      "price": "33.75",
       "location": ""
     },
     {
@@ -52144,7 +52132,7 @@
     {
       "stockCode": "47H215",
       "description": "LED BEANIE HAT RECHARGABLE   46A",
-      "price": "11.70",
+      "price": "11.35",
       "location": "46A"
     },
     {
@@ -55120,7 +55108,7 @@
     {
       "stockCode": "49D341",
       "description": "9\" METAL DISK 230X3X22 SPEEDOFLEX  32A",
-      "price": "3.83",
+      "price": "3.70",
       "location": "32A"
     },
     {
@@ -58468,7 +58456,7 @@
     {
       "stockCode": "5023969305936",
       "description": "PROF DIAMOND BLADE 125MM X 22MM F/FULL",
-      "price": "17.46",
+      "price": "14.54",
       "location": ""
     },
     {
@@ -58887,7 +58875,7 @@
     },
     {
       "stockCode": "5035048683040",
-      "description": "",
+      "description": "IMPACT WRENCH HIGH TORQUE 3/4\" 18V  DEWALT   43",
       "price": "266.00",
       "location": "43"
     },
@@ -61960,7 +61948,7 @@
     {
       "stockCode": "50BA125",
       "description": "BATTERY EARTH STRAP COVERED LEAD 24V 24\"",
-      "price": "35.04",
+      "price": "33.45",
       "location": ""
     },
     {
@@ -62295,7 +62283,7 @@
     },
     {
       "stockCode": "50BL115",
-      "description": "CLAYSON U/SERRATED (5.4X16RH)   2B8J",
+      "description": "APRIL CLAYSON U/SERRATED (5.4X16RH) 2B8J",
       "price": "1.62",
       "location": "2B8J"
     },
@@ -62379,7 +62367,7 @@
     },
     {
       "stockCode": "50BL171",
-      "description": "ROTARY BLADE KUHN    L.H. JOHN DEERE  2B7F",
+      "description": "ROTARY BLADE KUHN 559.032.10 L.H. JOHN DEERE  2B7F",
       "price": "1.50",
       "location": "2B7F"
     },
@@ -62421,7 +62409,7 @@
     },
     {
       "stockCode": "50BL185",
-      "description": "NEW HOLLAND UNDERSERRATED BLADE COMBINE HARV.  2B8K",
+      "description": "MIDDLE MAY NEW HOLLAND UNDERSERRATED BLADE COMBINE HARV.  2B8K",
       "price": "1.32",
       "location": "2B8K"
     },
@@ -62996,12 +62984,6 @@
       "location": "3B6"
     },
     {
-      "stockCode": "50BU112",
-      "description": "ABBEY TOPPER FLAIL BAR BUSHING   US85A",
-      "price": "3.14",
-      "location": "US85A"
-    },
-    {
       "stockCode": "50BUCK/B1",
       "description": "3/4\" X 2&1/2\" JCB TOOTH BOLT & NUT  US85C",
       "price": "3.89",
@@ -63424,7 +63406,7 @@
     {
       "stockCode": "50CA131",
       "description": "AUTO CABLE SINGLE CORE 28/0.3MM PER 10M ONLY",
-      "price": "10.17",
+      "price": "8.82",
       "location": ""
     },
     {
@@ -63928,7 +63910,7 @@
     {
       "stockCode": "50CH181",
       "description": "LIFTING HOOK inc. CLEVIS -LOCK PIN 100KN 13MM  4A5F",
-      "price": "46.74",
+      "price": "45.38",
       "location": "4A5F"
     },
     {
@@ -63952,7 +63934,7 @@
     {
       "stockCode": "50CH261",
       "description": "SPREADER CHAIN 3/8 X 15\" ASSEMBLY 46H",
-      "price": "8.63",
+      "price": "8.37",
       "location": "46H"
     },
     {
@@ -63986,18 +63968,6 @@
       "location": "4A5C/H2"
     },
     {
-      "stockCode": "50CH312",
-      "description": "CHAIN ASSEMBLY WITH HOOKS 10MM X 6M    4A5G",
-      "price": "180.00",
-      "location": "4A5G"
-    },
-    {
-      "stockCode": "50CH314",
-      "description": "CHAIN ASSEMBLY WITH HOOKS 10MM X 8M",
-      "price": "0.00",
-      "location": ""
-    },
-    {
       "stockCode": "50CH315",
       "description": "LIFTING CHAIN 4M X 10MM WITH 2  HOOKS   GRADE 80 H2",
       "price": "78.87",
@@ -64005,8 +63975,8 @@
     },
     {
       "stockCode": "50CH316",
-      "description": "LIFTING BROTHER CHAIN 4M 2 LEG      H2",
-      "price": "191.59",
+      "description": "LIFTING CHAIN 6M X 10MM WITH 2  HOOKS   GRADE 80 H2",
+      "price": "141.75",
       "location": "H2"
     },
     {
@@ -64900,7 +64870,7 @@
     {
       "stockCode": "50DS131",
       "description": "D-SHACKLE 3/8\" (10MM) G776  47A/",
-      "price": "1.66",
+      "price": "1.18",
       "location": "47A/"
     },
     {
@@ -64924,7 +64894,7 @@
     {
       "stockCode": "50DS171",
       "description": "D-SHACKLE 3/4\" (20MM) G780 47A/",
-      "price": "4.13",
+      "price": "3.99",
       "location": "47A/"
     },
     {
@@ -65103,7 +65073,7 @@
     },
     {
       "stockCode": "50EX271",
-      "description": "EXHAUST CLIP 3\" (80MM)47A",
+      "description": "EXHAUST CLIP 3\" (76MM) G6619 47A",
       "price": "2.40",
       "location": "47A"
     },
@@ -66604,7 +66574,7 @@
     {
       "stockCode": "50GS301",
       "description": "GAS STRUT FORD S.Q R/WINDOW 375MMRAM 150MM 160N  5AEND",
-      "price": "12.80",
+      "price": "11.24",
       "location": "5AEND"
     },
     {
@@ -66658,7 +66628,7 @@
     {
       "stockCode": "50GV112",
       "description": "MANUAL HANDLE FOR GATE VALVE   71D2",
-      "price": "18.90",
+      "price": "12.49",
       "location": "71D2"
     },
     {
@@ -66844,7 +66814,7 @@
     {
       "stockCode": "50HK141",
       "description": "HOOK KEYRING 4\"  X 1\"   47A",
-      "price": "3.30",
+      "price": "3.21",
       "location": "47C"
     },
     {
@@ -66904,7 +66874,7 @@
     {
       "stockCode": "50HK221",
       "description": "CARBINE HOOK 80 x 8mm  47A/",
-      "price": "1.84",
+      "price": "1.80",
       "location": "47A/"
     },
     {
@@ -66916,7 +66886,7 @@
     {
       "stockCode": "50HK241",
       "description": "CARBINE HOOK 100 x 10mm   47A",
-      "price": "2.90",
+      "price": "2.70",
       "location": "47A/"
     },
     {
@@ -67048,7 +67018,7 @@
     {
       "stockCode": "50HN221",
       "description": "LIFT-OFF HINGE MALE RH 50 X 50 X 11  47D",
-      "price": "3.15",
+      "price": "2.97",
       "location": "47D"
     },
     {
@@ -67060,7 +67030,7 @@
     {
       "stockCode": "50HN231",
       "description": "LIFT-OFF HINGE FEMALE 50 X 50mm  47D",
-      "price": "1.89",
+      "price": "1.85",
       "location": "47D"
     },
     {
@@ -67252,7 +67222,7 @@
     {
       "stockCode": "50HT221",
       "description": "FLANGE BALL HITCH (3000KG) G3050  47B",
-      "price": "13.73",
+      "price": "13.32",
       "location": "47B"
     },
     {
@@ -67498,7 +67468,7 @@
     {
       "stockCode": "50JA191",
       "description": "20-TONNE BOTTLE JACK BJ20  47A",
-      "price": "74.16",
+      "price": "74.63",
       "location": "47A"
     },
     {
@@ -67917,7 +67887,7 @@
     },
     {
       "stockCode": "50L//TAIL",
-      "description": "DEC  MULTI-FUNCTION TAILLIGHT 12/24V (225x100x47)  STAND",
+      "description": "OOS DEC  MULTI-FUNCTION TAILLIGHT 12/24V (225x100x47)  STAND",
       "price": "28.63",
       "location": "STAND"
     },
@@ -68152,7 +68122,7 @@
     {
       "stockCode": "50LB211",
       "description": "LINKAGE BALL WIDE CAT 2 FORD  47B/",
-      "price": "4.94",
+      "price": "4.80",
       "location": "47B/"
     },
     {
@@ -68752,7 +68722,7 @@
     {
       "stockCode": "50LR143",
       "description": "LED COMBI LAMP 10-30V 3-FUNCT. IND/TAIL/BRAKE  46I",
-      "price": "43.11",
+      "price": "41.85",
       "location": "46I"
     },
     {
@@ -68974,7 +68944,7 @@
     {
       "stockCode": "50LU231",
       "description": "LUG BATT TERMINAL NEG EX-HD EU LARGE  46J",
-      "price": "5.76",
+      "price": "5.58",
       "location": "46J"
     },
     {
@@ -69718,7 +69688,7 @@
     {
       "stockCode": "50PI061",
       "description": "PIN AND CHAIN 4\"     (47D)",
-      "price": "5.25",
+      "price": "2.49",
       "location": "47D"
     },
     {
@@ -69874,7 +69844,7 @@
     {
       "stockCode": "50PI439",
       "description": "PIN LINCH PIPE 8 X 45MM 47B",
-      "price": "0.74",
+      "price": "0.72",
       "location": "47B"
     },
     {
@@ -72700,7 +72670,7 @@
     {
       "stockCode": "50SL367",
       "description": "COUPLING ITALIAN FEM BLANK 6\" US71 B1",
-      "price": "24.00",
+      "price": "22.71",
       "location": "US71 B1"
     },
     {
@@ -73971,9 +73941,9 @@
     },
     {
       "stockCode": "50SV111",
-      "description": "",
+      "description": "SWIVEL LAMP 12/24V INTERIOR 10 LED WHITE 225MM  STAND",
       "price": "16.46",
-      "location": ""
+      "location": "STAND"
     },
     {
       "stockCode": "50SV115",
@@ -74104,7 +74074,7 @@
     {
       "stockCode": "50SW303",
       "description": "ISOLATOR SWITCH WITH FIXED KEY 100A 19MM HOLE 24V 3B8/",
-      "price": "18.57",
+      "price": "17.64",
       "location": "3B8"
     },
     {
@@ -74188,7 +74158,7 @@
     {
       "stockCode": "50SW471",
       "description": "GREEN ROCKER ON/OFF NEON SWITCH   3B8",
-      "price": "8.54",
+      "price": "7.68",
       "location": "3B8"
     },
     {
@@ -75165,7 +75135,7 @@
     },
     {
       "stockCode": "50TL249",
-      "description": "HYD VALVE KIT TO SUIT 26\" TOP LINKS   47D",
+      "description": "CHECK VALVE KIT TO SUIT 26\" TOP LINKS   47D",
       "price": "45.15",
       "location": "47D"
     },
@@ -75274,7 +75244,7 @@
     {
       "stockCode": "50TL437",
       "description": "LOWER LINK ARM END W/O 1&1/8\"    47B",
-      "price": "12.54",
+      "price": "12.17",
       "location": "47B"
     },
     {
@@ -76671,7 +76641,7 @@
     },
     {
       "stockCode": "50WH701",
-      "description": "WHEEL STUD FORD 1/2\"   3A A",
+      "description": "WHEEL STUD FORD 1/2\" (81816580)  3A A",
       "price": "4.56",
       "location": "3A A"
     },
@@ -76960,13 +76930,13 @@
     {
       "stockCode": "50WL307",
       "description": "WORK LAMP LED ROUND 40W  4000LM  STAND",
-      "price": "23.52",
+      "price": "30.15",
       "location": "46J"
     },
     {
       "stockCode": "50WL309",
       "description": "WORK LAMP LED SQUARE 2376LM 27W STAND",
-      "price": "22.41",
+      "price": "21.75",
       "location": "46J"
     },
     {
@@ -78364,7 +78334,7 @@
     {
       "stockCode": "51HL401",
       "description": "LAYFLAT 2\" YELLOW HOSE *PER MTR*  US59C2",
-      "price": "3.84",
+      "price": "3.85",
       "location": "US59C2"
     },
     {
@@ -79275,8 +79245,8 @@
     },
     {
       "stockCode": "5390342020046",
-      "description": "QUADRANT PINE 11MM X 11MM CODE F",
-      "price": "2.85",
+      "description": "1 '' QUADRANT PINE 11MM X 11MM CODE F",
+      "price": "3.98",
       "location": ""
     },
     {
@@ -79965,9 +79935,9 @@
     },
     {
       "stockCode": "5391195175105",
-      "description": "",
+      "description": "COMPRESSOR AIR 12V KIT MINI 20L/MIN    44G",
       "price": "33.75",
-      "location": ""
+      "location": "44G"
     },
     {
       "stockCode": "5391195178939",
@@ -80475,7 +80445,7 @@
     },
     {
       "stockCode": "54S115",
-      "description": "SILAGE TAPE BLACK *HEAVY**  42A/US64D3 NEW SHED",
+      "description": "SILAGE TAPE BLACK *HEAVY**  42A/US64D3",
       "price": "3.05",
       "location": "42A/US64D3"
     },
@@ -80620,7 +80590,7 @@
     {
       "stockCode": "55BM111",
       "description": "MITRE FAST BONDING KIT 200ML/50G  42B/",
-      "price": "5.97",
+      "price": "5.76",
       "location": "42B/"
     },
     {
@@ -81657,9 +81627,9 @@
     },
     {
       "stockCode": "60F215",
-      "description": "WATER BLOCK FOR DIESEL 1\" (FILTER-CLEAR BOWL KIT)  3A1",
+      "description": "WATER BLOCK FOR DIESEL 1\" (FILTER-CLEAR BOWL KIT)  3A1/64D1",
       "price": "89.70",
-      "location": "3A1"
+      "location": "3A1/64D1"
     },
     {
       "stockCode": "60F2156",
@@ -81825,9 +81795,9 @@
     },
     {
       "stockCode": "60F357",
-      "description": "HIFI FUEL FILTER    1B2B",
+      "description": "DELETE",
       "price": "7.15",
-      "location": "1B2B"
+      "location": "2B5"
     },
     {
       "stockCode": "60F359",
@@ -82923,14 +82893,8 @@
     },
     {
       "stockCode": "60FI117",
-      "description": "IN LINE FUEL FILTER   2AEND",
+      "description": "KUBOTA FUEL FILTER   2AEND",
       "price": "3.88",
-      "location": "2AEND"
-    },
-    {
-      "stockCode": "60FI118",
-      "description": "IN LINE FUEL FILTER   2AEND",
-      "price": "0.00",
       "location": "2AEND"
     },
     {
@@ -86848,7 +86812,7 @@
     {
       "stockCode": "75BL187",
       "description": "FINE  WOOD  CUT BLADE MULTI TOOL 43",
-      "price": "5.16",
+      "price": "4.32",
       "location": "43"
     },
     {
@@ -87452,7 +87416,7 @@
       "location": "US88 FLOOR"
     },
     {
-      "stockCode": "7.5E+112",
+      "stockCode": "75E111",
       "description": "LAWN EDGER - CARTER  22",
       "price": "29.93",
       "location": "22"
@@ -89098,7 +89062,7 @@
     {
       "stockCode": "75PK141",
       "description": "3 PRONG FORK LABRADOR   23",
-      "price": "29.25",
+      "price": "25.43",
       "location": "23"
     },
     {
@@ -89446,7 +89410,7 @@
     {
       "stockCode": "75RK161",
       "description": "GARDENER  RAKE  PLASTIC    21/",
-      "price": "15.05",
+      "price": "13.30",
       "location": "21/"
     },
     {
@@ -91024,7 +90988,7 @@
     {
       "stockCode": "75WC175",
       "description": "WATER CONTAINER 20L (RED /BLACKCAP)  7B1A",
-      "price": "17.25",
+      "price": "14.25",
       "location": "7B1A"
     },
     {
@@ -92121,9 +92085,9 @@
     },
     {
       "stockCode": "78AG113A",
-      "description": "ANGLE GRINDER 115MM   230V INCL. 1 DISC  43A",
+      "description": "ANGLE GRINDER 115MM   230V INCL. 1 DISC  43A/US64B1",
       "price": "58.50",
-      "location": "43A/"
+      "location": "43A/US64B1"
     },
     {
       "stockCode": "78AG114",
@@ -92350,19 +92314,19 @@
     {
       "stockCode": "79FB47",
       "description": "**OAK ** OGEE FASCIA BOARD 175MM-7\"  5M",
-      "price": "45.81",
+      "price": "42.82",
       "location": ""
     },
     {
       "stockCode": "79FB48",
       "description": "**OAK ** OGEE FASCIA BOARD 200MM-8\"  5M",
-      "price": "61.59",
+      "price": "35.91",
       "location": ""
     },
     {
       "stockCode": "79FB49",
       "description": "**OAK ** OGEE FASCIA BOARD 225MM-9\"  5M",
-      "price": "67.20",
+      "price": "47.56",
       "location": ""
     },
     {
@@ -93404,7 +93368,7 @@
       "location": ""
     },
     {
-      "stockCode": "8E+112",
+      "stockCode": "80E111",
       "description": "ECOSHEET 8X4X18MM",
       "price": "69.11",
       "location": ""
@@ -95403,7 +95367,7 @@
     },
     {
       "stockCode": "80ST113",
-      "description": "STOCK BOARD 8X4 9MM ENDURA #3#",
+      "description": "STOCK BOARD 8X4 9MM #3#",
       "price": "63.30",
       "location": "#3#"
     },
@@ -96320,7 +96284,7 @@
       "location": "STAND"
     },
     {
-      "stockCode": "9E+112",
+      "stockCode": "9.00E+112",
       "description": "EXPANSION JOINT FOR FOOTPATH - 16.5 FT 5M LONG",
       "price": "12.40",
       "location": ""
@@ -96477,7 +96441,7 @@
     },
     {
       "stockCode": "90AG113",
-      "description": "ARTIFICAL GRASS 2MTR WIDE X 1MTR**PER MTR ONLY**- GRASS 30MM HIGH",
+      "description": "ARTIFICAL GRASS 2MTR X 1MTR**PER MTR ONLY**- GRASS 30MM HIGH",
       "price": "33.75",
       "location": ""
     },
@@ -97130,43 +97094,43 @@
       "location": "24B"
     },
     {
-      "stockCode": "9E+102",
+      "stockCode": "90E101",
       "description": "FLOOR COMPOUND 20KG (COVERS 4MTR SQ)  PORCH",
       "price": "19.50",
       "location": ""
     },
     {
-      "stockCode": "9E+106",
+      "stockCode": "90E105",
       "description": "DEEP FLOOR COMPOUND 20KG",
       "price": "28.00",
       "location": ""
     },
     {
-      "stockCode": "9E+112",
+      "stockCode": "90E111",
       "description": "EXPANSION JOINT FOR FOOTPATH 5M",
       "price": "12.40",
       "location": ""
     },
     {
-      "stockCode": "9E+114",
+      "stockCode": "90E113",
       "description": "EXPANSION JOINT FOR FOOTPATH 3M",
       "price": "8.28",
       "location": ""
     },
     {
-      "stockCode": "9E+223",
+      "stockCode": "90E222",
       "description": "EXPANSION  BEAD GALVD FOR A WALL METAL  10FT LONG",
       "price": "19.25",
       "location": ""
     },
     {
-      "stockCode": "9E+224",
+      "stockCode": "90E223",
       "description": "EXPANSION  BEAD  FOR A WALL PLASTIC SINGLE 10FT LONG",
       "price": "10.00",
       "location": ""
     },
     {
-      "stockCode": "9E+225",
+      "stockCode": "90E224",
       "description": "EXPANSION  BEAD  FOR A WALL PLASTIC DOUBLE 2.5M LONG",
       "price": "10.00",
       "location": ""
@@ -100168,7 +100132,7 @@
     {
       "stockCode": "91L271",
       "description": "DOORLOCK - PROFILE CYLINDER 35/35 NP 6-PIN   33A",
-      "price": "12.71",
+      "price": "10.37",
       "location": "33A"
     },
     {
@@ -100888,7 +100852,7 @@
     {
       "stockCode": "9420015758702",
       "description": "GOODNATURE PUMP AUTOMATIC CHOCOLATE PASTE LURE  1A4B",
-      "price": "12.24",
+      "price": "11.13",
       "location": "1A4B"
     },
     {
@@ -102626,12 +102590,6 @@
       "location": "US85C"
     },
     {
-      "stockCode": "MCH12X50",
-      "description": "PLOUGH BOLT M12X50 OVAL = 2 NIBS   US85C",
-      "price": "0.79",
-      "location": "US85C"
-    },
-    {
       "stockCode": "MCH224UNF",
       "description": "7/16\"x30MM FINE THREAD BOLT+NUT  US85C/US85D",
       "price": "0.60",
@@ -102897,7 +102855,7 @@
     },
     {
       "stockCode": "MCTL150681",
-      "description": "WELD ON IMPLEMENT TRIANGLE  US87 FLOOR",
+      "description": "2 WEEKS WELD ON IMPLEMENT TRIANGLE  US87 FLOOR",
       "price": "72.39",
       "location": "US87 FLOOR"
     },

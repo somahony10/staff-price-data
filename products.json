@@ -5358,9 +5358,9 @@
     },
     {
       "stockCode": "17W191",
-      "description": "WIPER  BLADE 19\"  48    34A/H2",
+      "description": "WIPER  BLADE 19\"  48    34A/",
       "price": "6.00",
-      "location": "34A/H2",
+      "location": "34A/",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -5511,7 +5511,7 @@
     },
     {
       "stockCode": "18B025",
-      "description": "KEY FOB BATTERY 3V 2025    34A",
+      "description": "KEY FOB BATTERY 3V 2025    2 pack  34A",
       "price": "3.10",
       "location": "34A",
       "supplier": "",
@@ -6249,9 +6249,9 @@
     },
     {
       "stockCode": "18T125",
-      "description": "LED LONE RANGER PISTOL LIGHT (PLR - 500)   36B",
+      "description": "",
       "price": "0.00",
-      "location": "36B",
+      "location": "",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -6900,6 +6900,15 @@
       "description": "DRILL BIT WOOD 8 SET FLAT & EXTENSION  11B2C",
       "price": "9.45",
       "location": "11B2C",
+      "supplier": "",
+      "partNumber": "",
+      "costPrice": "0.00"
+    },
+    {
+      "stockCode": "19DF232",
+      "description": "FLATBIT 32MM F/FULL      43",
+      "price": "6.89",
+      "location": "43",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -11100,7 +11109,7 @@
     },
     {
       "stockCode": "20NUF151",
-      "description": "NUT 9/16\" UNF   18A7",
+      "description": "NUT 9/16\" UNF   18A7/ EXTRA BACK STAND",
       "price": "0.20",
       "location": "18A7",
       "supplier": "",
@@ -11532,7 +11541,7 @@
     },
     {
       "stockCode": "20RB141",
-      "description": "RAWBOLT 8 X 80",
+      "description": "RAWBOLT 8 X 80/BACK STAND",
       "price": "1.05",
       "location": "",
       "supplier": "",
@@ -11541,7 +11550,7 @@
     },
     {
       "stockCode": "20RB145",
-      "description": "RAWBOLT 8 X 90  18A6",
+      "description": "RAWBOLT 8 X 90  18A6/BACK STAND",
       "price": "1.10",
       "location": "18A6",
       "supplier": "",
@@ -11559,7 +11568,7 @@
     },
     {
       "stockCode": "20RB155",
-      "description": "RAWBOLT 8 X 130  18A6",
+      "description": "RAWBOLT 8 X 130  18A6/BACK STAND",
       "price": "1.65",
       "location": "18A6",
       "supplier": "",
@@ -11757,7 +11766,7 @@
     },
     {
       "stockCode": "20RB315",
-      "description": "PROJECT RAW BOLT 8 X 70/75   18A6",
+      "description": "PROJECT RAW BOLT 8 X 70/75   18A6/BACK STAND",
       "price": "1.02",
       "location": "18A6",
       "supplier": "",
@@ -13449,7 +13458,7 @@
     },
     {
       "stockCode": "20UNF221",
-      "description": "BOLT 3/8\"X 3\" UNF  18A9",
+      "description": "BOLT 3/8\"X 3\" UNF  18A9/BACK STAND",
       "price": "0.45",
       "location": "18A9",
       "supplier": "",
@@ -21973,7 +21982,7 @@
     {
       "stockCode": "22RED20",
       "description": "REDUCTION INSERT 1\" X 3/4\"     44F",
-      "price": "2.75",
+      "price": "4.78",
       "location": "44F",
       "supplier": "",
       "partNumber": "",
@@ -22324,7 +22333,7 @@
     {
       "stockCode": "22THR27",
       "description": "WATER BLANK PLUGS THREADED 3/4\" - SQ HEAD 4022  D1Q",
-      "price": "1.98",
+      "price": "2.34",
       "location": "D1T",
       "supplier": "",
       "partNumber": "",
@@ -22377,8 +22386,8 @@
     },
     {
       "stockCode": "22THR32A",
-      "description": "WATER BUSHINGS - REDUCING 1/2\" X 3/4\"  45A",
-      "price": "1.75",
+      "description": "DELETE",
+      "price": "0.00",
       "location": "45A",
       "supplier": "",
       "partNumber": "",
@@ -22513,7 +22522,7 @@
     {
       "stockCode": "22THR47",
       "description": "WATER NIPPLE BSP OUTSIDE TREADED 1\" 4233  45A",
-      "price": "2.48",
+      "price": "2.56",
       "location": "45A",
       "supplier": "",
       "partNumber": "",
@@ -22531,7 +22540,7 @@
     {
       "stockCode": "22THR49",
       "description": "WATER NIPPLE BSP OUTSIDE TREADED 1&1/2\" 4255  45A/",
-      "price": "3.49",
+      "price": "3.75",
       "location": "45A",
       "supplier": "",
       "partNumber": "",
@@ -22630,7 +22639,7 @@
     {
       "stockCode": "22THR59",
       "description": "SOCKET BSP 1&1/4 INSIDE TREAD  4344  45A",
-      "price": "7.97",
+      "price": "8.92",
       "location": "45A",
       "supplier": "",
       "partNumber": "",
@@ -23143,7 +23152,7 @@
     {
       "stockCode": "22VAL71",
       "description": "FOOT VALVE ONLY NON RETURN 1&1/4\"  4A3H",
-      "price": "22.55",
+      "price": "23.44",
       "location": "4A3H",
       "supplier": "",
       "partNumber": "",
@@ -23530,7 +23539,7 @@
     {
       "stockCode": "23ACC937",
       "description": "BRASS BLANK PLUGS 3/4\" OUTSIDE THREAD 074002  18B1",
-      "price": "2.97",
+      "price": "3.02",
       "location": "18B1",
       "supplier": "",
       "partNumber": "",
@@ -23539,7 +23548,7 @@
     {
       "stockCode": "23ACC938",
       "description": "BRASS PLUGS 1\" OUTSIDE TREAD 074  15B4",
-      "price": "5.37",
+      "price": "5.60",
       "location": "15B4",
       "supplier": "",
       "partNumber": "",
@@ -24924,7 +24933,7 @@
     },
     {
       "stockCode": "23FV105",
-      "description": "REMOTE FIRE VALVE  90DEG X 1.5 M       6BC10",
+      "description": "REMOTE FIRE VALVE 90-DEG X 1.5M       6BC10",
       "price": "37.45",
       "location": "6BC10",
       "supplier": "",
@@ -33006,7 +33015,7 @@
     },
     {
       "stockCode": "27T22C",
-      "description": "1 1/2\" X 3/4\" TEE POL X FI 934462  45B",
+      "description": "1 1/2\" X 3/4\" TEE POL X FI 934462  45B/ BR1-3E",
       "price": "27.41",
       "location": "45B",
       "supplier": "",
@@ -33024,7 +33033,7 @@
     },
     {
       "stockCode": "27T23A",
-      "description": "1&1/2\" X 2\" TEE POL X FI 934466  45B",
+      "description": "1&1/2\" X 2\" TEE POL X FI 934466  45B/BR1-H4",
       "price": "27.41",
       "location": "45B",
       "supplier": "",
@@ -33834,7 +33843,7 @@
     },
     {
       "stockCode": "28BE101",
-      "description": "ENERGY SAVER BULB 8W (40W) POP-IN  40A",
+      "description": "",
       "price": "3.64",
       "location": "40A",
       "supplier": "",
@@ -38181,7 +38190,7 @@
     },
     {
       "stockCode": "28JN181",
-      "description": "JUNCTION BOX (RECTANGLE) 150X110X70 (PLEXO BOX)  40B/",
+      "description": "JUNCTION BOX  150X110X70 (PLEXO BOX) IP56  40B/",
       "price": "5.43",
       "location": "40B",
       "supplier": "",
@@ -39235,7 +39244,7 @@
     {
       "stockCode": "28ST101",
       "description": "STOP TAIL FLASHER 12V 5 WATT SINGLE/SINGLE  3B6",
-      "price": "0.74",
+      "price": "1.00",
       "location": "3B6",
       "supplier": "",
       "partNumber": "",
@@ -39675,9 +39684,18 @@
     },
     {
       "stockCode": "28T115",
-      "description": "EOL FLASH CLOCK HEATING TIMER (+ SWITCH/LIGHT) 2 CHANNEL 39A",
-      "price": "67.77",
+      "description": "2 ZONE PROGRAMME, 2 DAY TIMESWITCH  39A",
+      "price": "77.58",
       "location": "39A",
+      "supplier": "",
+      "partNumber": "",
+      "costPrice": "0.00"
+    },
+    {
+      "stockCode": "28T116",
+      "description": "3 ZONE PROGRAMME, 2 DAY TIMESWITCH  39A",
+      "price": "121.89",
+      "location": "",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -40161,7 +40179,7 @@
     },
     {
       "stockCode": "28TV13",
-      "description": "TV JOINER F COUPLER  39A",
+      "description": "F CONNECTOR TV JOINER F COUPLER  39A",
       "price": "0.58",
       "location": "39A",
       "supplier": "",
@@ -40170,7 +40188,7 @@
     },
     {
       "stockCode": "28TV14",
-      "description": "CO AX  JOINER (F-CONNECTORS)  39A",
+      "description": "CO AX  BACK TO BACK JOINER (F-CONNECTORS)  39A",
       "price": "0.90",
       "location": "39A",
       "supplier": "",
@@ -73335,7 +73353,7 @@
     },
     {
       "stockCode": "44NZ131",
-      "description": "GREEN HOSE NOZZLE (SOUTH SPRAYGUN)  2B2A",
+      "description": "GREEN HOSE NOZZLE (SOUTH SPRAYGUN)   2B2A",
       "price": "17.18",
       "location": "2B2A",
       "supplier": "",
@@ -73497,7 +73515,7 @@
     },
     {
       "stockCode": "44PR035",
-      "description": "RUBY GRAIN 3KG  1B4B",
+      "description": "OOS     RUBY GRAIN 3KG  1B4B",
       "price": "28.35",
       "location": "1B4B",
       "supplier": "",
@@ -73506,7 +73524,7 @@
     },
     {
       "stockCode": "44PR036",
-      "description": "SAPPHIRE GRAIN 3KG  7A5A",
+      "description": "OOS  SAPPHIRE GRAIN 3KG  7A5A",
       "price": "48.06",
       "location": "7A5A",
       "supplier": "",
@@ -86169,7 +86187,7 @@
     },
     {
       "stockCode": "5023969201085",
-      "description": "MASONARY DRILL 8MMX150MM F/FULL",
+      "description": "DO NOT REORDER  MASONARY DRILL 8MMX150MM F/FULL",
       "price": "3.03",
       "location": "",
       "supplier": "",
@@ -88852,8 +88870,17 @@
     {
       "stockCode": "5035048743331",
       "description": "DEWALT 18V XR BLESS 1/2\" HT IMP WRENCH HR BARE  STAND/",
-      "price": "278.60",
+      "price": "291.43",
       "location": "STAND/",
+      "supplier": "",
+      "partNumber": "",
+      "costPrice": "0.00"
+    },
+    {
+      "stockCode": "5035048833643",
+      "description": "DEWALT 18V XR BLESS 3/4\" HT IMP WRENCH HR BARE   -  STAND/",
+      "price": "441.43",
+      "location": "STAND",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -92344,7 +92371,7 @@
     {
       "stockCode": "50A141",
       "description": "HOSE AIRLINE 10MM (3/8) PER MTR  US57B2",
-      "price": "2.95",
+      "price": "3.00",
       "location": "US57B2",
       "supplier": "",
       "partNumber": "",
@@ -101209,7 +101236,7 @@
     {
       "stockCode": "50HN101",
       "description": "HINGE SLOTTED 168x60x40   47C",
-      "price": "4.32",
+      "price": "4.45",
       "location": "47C",
       "supplier": "",
       "partNumber": "",
@@ -102883,7 +102910,7 @@
     {
       "stockCode": "50LB162",
       "description": "L/L BALL END CAT 2 56-OD-28.8 ID TREATED 47B/",
-      "price": "5.58",
+      "price": "6.32",
       "location": "47B/",
       "supplier": "",
       "partNumber": "",
@@ -105439,7 +105466,7 @@
     {
       "stockCode": "50PI365",
       "description": "IMPLEMENT PIN 3/4\" X 1&1/8\"  CAT 2  47B",
-      "price": "5.40",
+      "price": "6.18",
       "location": "47B",
       "supplier": "",
       "partNumber": "",
@@ -107419,7 +107446,7 @@
     {
       "stockCode": "50S585",
       "description": "SLING LIFTING 4TON X 5MTR (GREY) 46H",
-      "price": "52.07",
+      "price": "53.62",
       "location": "46H",
       "supplier": "",
       "partNumber": "",
@@ -120747,7 +120774,7 @@
     },
     {
       "stockCode": "5391133019980",
-      "description": "9W (60W)  BC  LF9BC   40C",
+      "description": "9W (60W)  BC  840 LF9BC A60 40C",
       "price": "3.50",
       "location": "40C",
       "supplier": "",
@@ -132321,9 +132348,9 @@
     },
     {
       "stockCode": "75F1122",
-      "description": "1/2\" RATCHET FOR SOCKETS  3B3A",
-      "price": "22.12",
-      "location": "3B3A",
+      "description": "",
+      "price": "0.00",
+      "location": "",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -134985,9 +135012,9 @@
     },
     {
       "stockCode": "75R121",
-      "description": "K/T  1/2\"  DR. RATCHET (25 PCE)",
-      "price": "25.06",
-      "location": "",
+      "description": "1/4\" DRIVE SOFT GRIP RATCHET 72 TEETH B/SPOT  43",
+      "price": "11.39",
+      "location": "43",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -137577,16 +137604,16 @@
     },
     {
       "stockCode": "75WB131",
-      "description": "BRACE WHEEL CAR 4-WAY  34C",
+      "description": "BRACE WHEEL CAR 4-WAY  47",
       "price": "7.96",
-      "location": "34C",
+      "location": "47",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
     },
     {
       "stockCode": "75WB151",
-      "description": "BRACE WHEEL TRUCK 4-WAY  34C",
+      "description": "",
       "price": "28.03",
       "location": "34C",
       "supplier": "",
@@ -139413,8 +139440,8 @@
     },
     {
       "stockCode": "78HT113",
-      "description": "RYOBI - AHF-04 EXPAND IT ART. HEDGE TRIMMER  COUNTER",
-      "price": "90.91",
+      "description": "DEWALT 18V HEDGE TRIMMER   XR - 1 X5.0AH",
+      "price": "278.60",
       "location": "COUNTER",
       "supplier": "",
       "partNumber": "",
@@ -142779,7 +142806,7 @@
     },
     {
       "stockCode": "80R/WSLEEPB",
-      "description": "**OLD STYLE***CREOSOTE  R/WAY SLEEPERS SINGLE 10.5\"X6 X8.5FT",
+      "description": "DO NOT SELL   **OLD STYLE***CREOSOTE  R/WAY SLEEPERS SINGLE 10.5\"X6 X8.5FT",
       "price": "39.00",
       "location": "1",
       "supplier": "",
@@ -146649,9 +146676,9 @@
     },
     {
       "stockCode": "90CLIP/SLB",
-      "description": "SLATE COPPER CLIPS (CRAMPIONS) *100*  29A/4E1",
+      "description": "SLATE COPPER CLIPS (CRAMPIONS) *100*  29A/",
       "price": "8.25",
-      "location": "29A/4E1",
+      "location": "29A/",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
@@ -151958,8 +151985,17 @@
       "costPrice": "0.00"
     },
     {
+      "stockCode": "91SILE",
+      "description": "",
+      "price": "8.02",
+      "location": "26B/",
+      "supplier": "",
+      "partNumber": "",
+      "costPrice": "0.00"
+    },
+    {
       "stockCode": "91SILICONEA",
-      "description": "SILICONE SEALANT TUBE  (WHT-BLK-BRW-CLR)  42B/",
+      "description": "SILICONE SEALANT TUBE  (WHT-BLK-CLR)  42B/",
       "price": "5.02",
       "location": "42B/",
       "supplier": "",
@@ -151977,9 +152013,18 @@
     },
     {
       "stockCode": "91SILICONEC",
-      "description": "BATHROOM &  SANITARY  SILICONE CLEAR/ WHITE    42B/US 64 A2",
+      "description": "BATHROOM &  SANITARY  SILICONE CLEAR/ WHITE    42B/",
       "price": "7.98",
-      "location": "42B/ US 64 A2",
+      "location": "",
+      "supplier": "",
+      "partNumber": "",
+      "costPrice": "0.00"
+    },
+    {
+      "stockCode": "91SILICONED",
+      "description": "**BROWN** SILICONE  TUBE    42B/",
+      "price": "8.92",
+      "location": "42B/",
       "supplier": "",
       "partNumber": "",
       "costPrice": "0.00"
